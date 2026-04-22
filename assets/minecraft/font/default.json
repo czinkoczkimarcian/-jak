@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/custom.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["我"]
+    }
+  ]
+}
